@@ -1,1 +1,2 @@
 select * from emp where employeeid = 101
+to get all employee details
